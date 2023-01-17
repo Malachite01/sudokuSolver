@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\M1102\TP1\hello.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\M1102\TP1\hello.exe</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\src\affichage.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\src\affichage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\src\evaluations.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\src\resolutions.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

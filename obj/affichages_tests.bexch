@@ -1,0 +1,25 @@
+[GENERATED OBJECT FILE]
+b__affichages_tests.o
+[PROJECT FILES]
+C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\sudoku.gpr
+20220118203336 c3296b6873a9ab153e83597dbb389b76
+[BOUND OBJECT FILES]
+C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\obj\TAD_coordonnee.o
+C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\obj\TAD_ensemble.o
+C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\obj\TAD_grillesudoku.o
+C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\obj\affichage.o
+C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\obj\remplirGrille.o
+C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\obj\resolutions.o
+C:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\obj\affichages_tests.o
+[GENERATED SOURCE FILES]
+b__affichages_tests.ads
+b__affichages_tests.adb
+b__affichages_tests.ali
+[RESULTING OPTIONS]
+-LC:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\obj\
+-LC:\Users\mathi\OneDrive\Cours\S1\S1.02 Sae\SAE1.02\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
